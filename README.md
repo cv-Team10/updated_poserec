@@ -12,9 +12,5 @@ Based on Dataset, finetuning was conducted for the above model.
 
 
 Download mpii and coco pretrained models from above link
-
-${POSE_ROOT}
-
--- pytorch
-  |-- pretrained
-  |   |-- pose_resnet_50_256x192.pth.tar
+Please download under
+${ROOT}/pretrained/pose_resnet_50_256x192.pth.tar
